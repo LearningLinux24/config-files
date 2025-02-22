@@ -1,0 +1,12 @@
+2025/02/03-17:31:29.188 4668 Reusing MANIFEST /home/Vatsal/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/03-17:31:29.189 4668 Recovering log #40
+2025/02/03-17:31:29.230 4668 Reusing old log /home/Vatsal/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000040.log 
+2025/02/03-17:32:35.736 4667 Level-0 table #45: started
+2025/02/03-17:32:35.748 4667 Level-0 table #45: 1334091 bytes OK
+2025/02/03-17:32:35.754 4667 Delete type=0 #40
+2025/02/03-17:33:45.548 4667 Compacting 1@1 + 1@2 files
+2025/02/03-17:33:45.567 4667 Generated table #46@1: 319 keys, 59967 bytes
+2025/02/03-17:33:45.567 4667 Compacted 1@1 + 1@2 files => 59967 bytes
+2025/02/03-17:33:45.572 4667 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/03-17:33:45.572 4667 Delete type=2 #42
+2025/02/03-17:33:45.572 4667 Delete type=2 #45

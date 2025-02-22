@@ -1,0 +1,7 @@
+2025/02/10-21:14:05.290 a1e Reusing MANIFEST /home/Vatsal/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/10-21:14:05.290 a1e Recovering log #54
+2025/02/10-21:14:05.290 a1e Reusing old log /home/Vatsal/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000054.log 
+2025/02/10-21:14:05.448 a1e Level-0 table #59: started
+2025/02/10-21:14:05.452 a1e Level-0 table #59: 810 bytes OK
+2025/02/10-21:14:05.459 a1e Delete type=0 #54
+2025/02/10-21:14:05.460 a1c Manual compaction at level-0 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)

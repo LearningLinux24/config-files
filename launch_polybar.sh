@@ -1,0 +1,1 @@
+../dotfiles-master/polybar/.config/launch_polybar.sh
